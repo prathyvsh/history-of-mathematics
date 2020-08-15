@@ -66,5 +66,9 @@
 
 * Books
 
-** Euclid’s Window
+** [[https://amzn.to/31O4yzi][Euclid’s Window]]
+Leonard Mlodinow (2001)
+
+A whirlwind tour of how reconfiguration of Eucild’s axioms lead to the birth of non-Euclidean geometries which figured a prominent role in the 20th and 21st century Physics and how it ended up influencing our understanding of the world. The details of the theoretical portions are presented for the lay person and hence only brief outlines are presented, but the historical trajectory being detailed is rather interesting to follow to understand how work in geometry influenced physical theories.
+
 ** A Concise History of Mathematics
