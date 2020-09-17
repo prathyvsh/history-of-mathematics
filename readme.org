@@ -64,6 +64,16 @@
 
 * [Historian] Giovanni Villani
 
+* Alfred North Whitehead
+
+* Oysten Ore
+
+** [[https://www.jstor.org/stable/1968580][On the Foundation of Abstract Algebra I (1935)]]
+
+* Garrett Birkhoff
+
+** [[http://math.hawaii.edu/~ralph/Classes/619/birkhoff1935.pdf][On the Structure of Abstract Algebras (1935)]]
+
 * Books
 
 ** [[https://amzn.to/31O4yzi][Euclid’s Window]]
