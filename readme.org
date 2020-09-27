@@ -66,7 +66,15 @@
 
 * Alfred North Whitehead
 
-* Oysten Ore
+* Charles Peirce
+
+* Alfred Tarski
+
+* Steven Givant
+
+Givant and Tarski worked on relation algebra which was pioneered by Peirce
+
+* Øysten Ore
 
 ** [[https://www.jstor.org/stable/1968580][On the Foundation of Abstract Algebra I (1935)]]
 
