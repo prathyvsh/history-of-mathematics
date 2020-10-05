@@ -68,6 +68,16 @@
 
 French Mathematician
 
+* Fermat
+
+* Jacobi
+
+* Pierre-Simon Laplace (1749 – 1827)
+
+* Carl Friedrich Gauss (1777 – 1855)
+
+* Riemann
+
 * Johann Heinrich Lambert (1728 – 1777)
 
 * Karl Hermann Amandus Schwarz (1843 – 1921)
@@ -98,3 +108,48 @@ Leonard Mlodinow (2001)
 A whirlwind tour of how reconfiguration of Eucild’s axioms lead to the birth of non-Euclidean geometries which figured a prominent role in the 20th and 21st century Physics and how it ended up influencing our understanding of the world. The details of the theoretical portions are presented for the lay person and hence only brief outlines are presented, but the historical trajectory being detailed is rather interesting to follow to understand how work in geometry influenced physical theories.
 
 ** A Concise History of Mathematics
+
+** The Study of the History of Mathematics
+G. Sarton (1936)
+
+It has the classic quote:
+#+BEGIN_QUOTE
+The ways of discovery must necessarily be very different from the shortest way, indirect and circuitous, with many windings and retreats. It is only at a later stage of knowledge, when a new domain has been sufficiently explored, that it becomes possible to reconstruct the whole theory on a logical basis, and to show how it might have been discovered by an omniscient being, that is, how it might have been discovered if there had been no real need of discovering it!
+#+END_QUOTE
+
+** Bibliography and Research Material of the History of Mathematics
+K. O. May (1973)
+
+** Outline of the History of Mathematics
+R. C. Archibald
+
+** A History of Mathematics
+A. F. Carjori
+
+** History of Mathematics
+D. E. Smith
+
+** Men of Mathematics
+E. T. Bell
+
+** A History of Mathematics frmo Antiquity to the Beginning of the Ninteenth Century
+J. F. Scott
+
+** An Introduction to the History of Mathematics
+H. Eves
+
+** The Great Mathematicians
+
+W. H. Turnbull
+
+** The History of Mathematics
+
+J.E. Hofmann
+
+** A History of Mathematics
+
+Carl Boyer
+
+** Mathematical Thought from Ancient to Modern Times
+Morris Kline
+
