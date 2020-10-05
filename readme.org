@@ -153,3 +153,9 @@ Carl Boyer
 ** Mathematical Thought from Ancient to Modern Times
 Morris Kline
 
+* Books by Subject
+
+** Number Theory
+
+*** The Number Concept
+L. Conant
