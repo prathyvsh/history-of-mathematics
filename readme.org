@@ -165,3 +165,14 @@ Morris Kline
 
 *** The Number Concept
 L. Conant
+
+** Vector Algebra
+
+*** [[https://en.wikipedia.org/wiki/A_History_of_Vector_Analysis][A History of Vector Analysis]]
+Michael J. Crowe (1967)
+
+** Group Theory
+
+*** [[https://www.amazon.com/Genesis-Abstract-Group-Concept-Contribution/dp/0486458687][The Genesis of the Abstract Group Concept]]
+
+Hans Wussing (1969)
