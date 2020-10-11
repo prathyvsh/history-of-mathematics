@@ -100,6 +100,20 @@ Givant and Tarski worked on relation algebra which was pioneered by Peirce
 
 ** [[http://math.hawaii.edu/~ralph/Classes/619/birkhoff1935.pdf][On the Structure of Abstract Algebras (1935)]]
 
+* Articles
+
+** [[https://www.scientificamerican.com/article/stone-age-mathematics/][Stone Age Mathematics]]
+D. J. Struik
+
+** [[https://www.jstor.org/stable/41133224][The Ritual Origin of Geometry]]
+A. Seidenberg
+
+** [[https://www.jstor.org/stable/41133226][The Ritual Origin of Counting]]
+A. Seidenberg
+
+** [[https://www.jstor.org/stable/41133511][The Origin of Mathematics]]
+A. Seidenberg
+
 * Books
 
 ** [[https://amzn.to/31O4yzi][Euclid’s Window]]
@@ -128,6 +142,12 @@ A. F. Carjori
 
 ** History of Mathematics
 D. E. Smith
+
+** Numbers and Numerals
+D. E. Smith and J. Ginsburg
+
+** Code of the Quipos: A Study in Media, Mathematics, and Culture
+M. Ascher and D. Ascher
 
 ** Men of Mathematics
 E. T. Bell
