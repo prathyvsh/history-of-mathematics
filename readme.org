@@ -80,6 +80,17 @@ French Mathematician
 
 * Johann Heinrich Lambert (1728 – 1777)
 
+* Emergence of Abstract Algebra
+Bourbaki identifies three threads that braided together to result in the modern field of abstract algebra
+
+1/ Algebraic theory of numbers
+Gauss, Dedekind, Kronecker, and Hilbert
+
+2/ Permutation Groups
+Legrende, Abel, and Galois
+
+3/ Linear algebra and hypercomplex systems
+
 * Karl Hermann Amandus Schwarz (1843 – 1921)
 
 * Alfred North Whitehead
