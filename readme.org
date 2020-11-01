@@ -81,7 +81,10 @@ French Mathematician
 * Johann Heinrich Lambert (1728 – 1777)
 
 * Emergence of Abstract Algebra
-Bourbaki identifies three threads that braided together to result in the modern field of abstract algebra
+
+Bourbaki identifies three threads that braided together to result in the modern field of abstract algebra.
+
+A nice article on this is here: http://www.math.hawaii.edu/~lee/algebra/history.html
 
 1/ Algebraic theory of numbers
 Gauss, Dedekind, Kronecker, and Hilbert
