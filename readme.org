@@ -513,10 +513,10 @@ Charles Gillespie
 ** René Descartes
 Jack Vrooman
 
-* Makers of Mathematics
+** Makers of Mathematics
 Staurt Hollingdale
 
-* Men and Discoveries in Mathematics
+** Men and Discoveries in Mathematics
 Bryan Morgan
 
 ** Mathematics and the Medieval Ancestry of Physics
@@ -579,7 +579,7 @@ Martin Goldman
 ** Einstein, A Life
 Dennis Brian
 
-* Nineteenth Century Aether Theories
+** Nineteenth Century Aether Theories
 Kenneth F. Schaffner
 
 ** La Science et Hypothèse
@@ -605,6 +605,72 @@ Riychrad Feynman and Matthew Sands
 
 ** The Attraction of Gravitation
 John Earman, Micheal Tanssen and John Norton
+
+New Tactic in Physics: Hiding the Answer
+James Glanz
+
+** Knot Physics
+Ivars Peerson
+
+** Jordan, Pauli, Politics, Brecht, and a variable gravitational constant
+Engelbert L. Schucking
+
+** A Life of Erwin Schrödinger
+Wilter Moore
+
+** Writing the Story of Alphabets and Scripts
+George Jean
+
+** The Quotable Einstein
+Alice Calaprice
+
+** Strange Beauty
+George Johnson
+
+** Introduction to Superstrings and M-Theory
+Michio Kaku
+
+** The Key to the Universe
+Nigel Calder
+
+** Introduction to the Physics and Psychophysics of Music
+Juan Roederer
+
+** Nuclear Physics B258
+P. Calendas
+
+** How Faith in the Fringe Paid off for One Scientist
+K. C. Cole
+
+** The Quest for a Theory of Everything Hits Some Snags
+Faye Flam
+
+** Explaining Everything
+Madhusree Mukerjee
+
+** hysicist Edward Witten, on the trail of universal truth
+Alice Steinbach
+
+** Portrait: Is This the Cleverest Man in the World?
+Jack Claff
+
+** The Theory Formerly Known as Strings
+Michael Duff
+
+** Universe’s Blueprint Doesn't Come Easily
+Douglas M. Birch
+
+** Unfinished Symphoney
+J. Maddine Nash
+
+** The Elegant Universe
+Brian Greene
+
+** Hunting for Higher Dimensions
+P. Weiss
+
+** Beyond Gauge Theories
+John Schwars (hep-th / 9807195)
 
 * Books by Subject
 
