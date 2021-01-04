@@ -332,7 +332,11 @@ A whirlwind tour of how reconfiguration of Eucild’s axioms lead to the birth o
 ** Gödel’s Proof
 Ernest Nagel and James R. Newman
 
-** The Study of the History of Mathematics
+* Legend
+
+❤️ - Interested in reading
+
+** The Study of the History of Mathematics ❤️
 G. Sarton (1936)
 
 It has the classic quote:
@@ -346,10 +350,10 @@ K. O. May (1973)
 ** Outline of the History of Mathematics
 R. C. Archibald
 
-** A History of Mathematics
+** A History of Mathematics ❤️
 A. F. Carjori
 
-** History of Mathematics
+** History of Mathematics ❤️
 D. E. Smith
 
 ** Numbers and Numerals
@@ -364,63 +368,52 @@ E. T. Bell
 ** A History of Mathematics frmo Antiquity to the Beginning of the Ninteenth Century
 J. F. Scott
 
-** An Introduction to the History of Mathematics
+** An Introduction to the History of Mathematics ❤️
 H. Eves
 
 ** The Great Mathematicians
-
 W. H. Turnbull
 
 ** The History of Mathematics
-
 J.E. Hofmann
 
-** A History of Greek Mathematics Volume I, II
+** A History of Greek Mathematics Volume I, II ❤️
 Thomas Little Heath (1921)
 
 ** Greek Mathematical Thought and the Origin of Algebra (1968)
 J. Klein
 
-** A History of Mathematics
-
+** A History of Mathematics ❤️
 Carl Boyer
 
-** Mathematical Thought from Ancient to Modern Times
+** Mathematical Thought from Ancient to Modern Times ❤️
 Morris Kline
 
 ** A History of Computing Technology
 Michael R. Williams
 
 ** Makers of Mathematics
-
 Alfred Hooper
 
-** A History of Greek Philosophy
+** A History of Greek Philosophy ❤️
 W. K. C Guthrie
 
 ** The Great Mathematicians
 Herbert Turnbull
 
-** The Nature and Growth of Modern Mathematics
+** The Nature and Growth of Modern Mathematics ❤️
 Edna E. Kramer
-
-** Mathematical Thought from Ancient to Modern Times
-Morris Kline
 
 ** Mathematics in Civilization
 H. L. Resnikoff and R. O. Wells Jr.
 
-** A History of Greek Mathematics
-Sir Thomas Heath
-
-** The Presocratic Philosophers
+** The Presocratic Philosophers ❤️
 G. S. Kirk and J. E. Raven
 
-** Nature and the Greeks
+** Nature and the Greeks ❤️
 Erwin Schrödinger
 
 ** Pythagoras, A Life
-
 Peter Gorman
 
 ** The History of Miletus
@@ -435,7 +428,7 @@ Donald Johnson and Blake Edgar
 ** Of Men and Numbers
 Jane Muir
 
-** A History of Western Philosophy
+** A History of Western Philosophy ❤️
 Bertrand Russell
 
 ** Mathematical Statistics
@@ -444,7 +437,7 @@ John Freund
 ** Subtle is the Lord
 Abraham Pais
 
-** Ideas of Space
+** Ideas of Space ❤️
 Jeremy Gray
 
 ** Euclidean and Non-Euclidean Gemoetries
@@ -456,25 +449,25 @@ H. G. Wells
 ** Chronicle of the World
 Jerome Burne
 
-** The Life of Greece
+** The Life of Greece ❤️
 Will Durant
 
-** Mathematics and the Physical World
+** Mathematics and the Physical World ❤️
 Morris Kline
 
 ** Mathematics in Western Culture
 Morris Kline
 
-** The Mapmakers
+** The Mapmakers ❤️
 John Noble Wilford
 
 ** Hypatia of Alexandria
 Maria Dzielksa
 
-** The Decline and Fall of the Roman Empire
+** The Decline and Fall of the Roman Empire ❤️
 Edward Gibbon
 
-** Science in the Middle Ages
+** Science in the Middle Ages ❤️
 David Lindberg
 
 ** Advanced Algebra and Calculus Made Simple
@@ -486,22 +479,22 @@ Norman Thrower
 ** Longitude
 Dava Sobel
 
-** The Middle Ages
+** The Middle Ages ❤️
 Morris Bishop
 
-** The Medieval Machine
+** The Medieval Machine ❤️
 Jean Gimpel
 
-** Intellectuals in the Middle Ages
+** Intellectuals in the Middle Ages ❤️
 Lacques Le Goff
 
-** Introduction to Fourier Analysis and Generalised Functions
+** Introduction to Fourier Analysis and Generalised Functions ❤️
 M. J. Lighthill
 
-** Studies in Medieval Physics and Mathematics
+** Studies in Medieval Physics and Mathematics ❤️
 Marshall Clagett
 
-** Studies in Medieval Philosophy
+** Studies in Medieval Philosophy ❤️
 Stephano Caroti
 
 ** The Beginnings of Western Science
@@ -528,19 +521,16 @@ J. L. Berggren
 ** Carl Friedrich Gauss: Titan of Science
 G. Waldo Dunnington
 
-** Introduction to Mathematical Philosophy
+** Introduction to Mathematical Philosophy ❤️
 Bertrand Russell
 
-** Concepts of Space
+** Concepts of Space ❤️
 Max Jammer
-
-** Men of Mathematics
-E. T. Bell
 
 ** Biographien Bedeutender Mathematicker
 Heinz Junge
 
-** Riemann, Topology, and Physics
+** Riemann, Topology, and Physics ❤️
 Micheal Monastrysky
 
 ** The Master of Light: A Biography of Albert A. Michelson
@@ -558,58 +548,58 @@ Daniel Keves
 ** Eléments de Physique
 Adolphe Ganot
 
-** The Ethereal Aether
+** The Ethereal Aether ❤️
 Loyd S. Sowenson
 
-** H. A. lorentz
+** H. A. Lorentz
 G. L. De Haas Lorentz
 
 ** Nothingness: The Science of Empty Space
 Henning Genz
 
-** Elements of Natural Philosophy
+** Elements of Natural Philosophy ❤️
 E. S. Fische
 
 ** The Life of James Clerk Maxwell
 Louis Campbell and William Garnell
 
-** The Demon in the Aether
+** The Demon in the Aether ❤️
 Martin Goldman
 
 ** Einstein, A Life
 Dennis Brian
 
-** Nineteenth Century Aether Theories
+** Nineteenth Century Aether Theories ❤️
 Kenneth F. Schaffner
 
-** La Science et Hypothèse
+** La Science et Hypothèse ❤️❤️
 Henri Poincaré
 
 ** Einstein: The Life and Times
 Ronard Clark
 
-** The Principle of Relativity
-A. Somefeld
+** The Principle of Relativity ❤️
+A. Somerfeld
 
 ** Relativity
 Albert Einstein
 
-** Gravitation
+** Gravitation ❤️
 Charles Misner, Kip Thorne, and John Wheeler
 
-** Einstein, Hilbert, and the Theory of Gravitation
+** Einstein, Hilbert, and the Theory of Gravitation ❤️
 Jagdish Mishra
 
-** The Feynman Lectures on Physics
+** The Feynman Lectures on Physics ❤️
 Riychrad Feynman and Matthew Sands
 
-** The Attraction of Gravitation
+** The Attraction of Gravitation ❤️
 John Earman, Micheal Tanssen and John Norton
 
-New Tactic in Physics: Hiding the Answer
+** New Tactic in Physics: Hiding the Answer
 James Glanz
 
-** Knot Physics
+** Knot Physics ❤️
 Ivars Peerson
 
 ** Jordan, Pauli, Politics, Brecht, and a variable gravitational constant
@@ -618,19 +608,19 @@ Engelbert L. Schucking
 ** A Life of Erwin Schrödinger
 Wilter Moore
 
-** Writing the Story of Alphabets and Scripts
+** Writing the Story of Alphabets and Scripts ❤️
 George Jean
 
 ** The Quotable Einstein
 Alice Calaprice
 
-** Strange Beauty
+** Strange Beauty ❤️
 George Johnson
 
 ** Introduction to Superstrings and M-Theory
 Michio Kaku
 
-** The Key to the Universe
+** The Key to the Universe ❤️
 Nigel Calder
 
 ** Introduction to the Physics and Psychophysics of Music
@@ -639,16 +629,16 @@ Juan Roederer
 ** Nuclear Physics B258
 P. Calendas
 
-** How Faith in the Fringe Paid off for One Scientist
+** How Faith in the Fringe Paid off for One Scientist ❤️
 K. C. Cole
 
 ** The Quest for a Theory of Everything Hits Some Snags
 Faye Flam
 
-** Explaining Everything
+** Explaining Everything ❤️
 Madhusree Mukerjee
 
-** hysicist Edward Witten, on the trail of universal truth
+** Physicist Edward Witten, on the trail of universal truth
 Alice Steinbach
 
 ** Portrait: Is This the Cleverest Man in the World?
@@ -657,20 +647,20 @@ Jack Claff
 ** The Theory Formerly Known as Strings
 Michael Duff
 
-** Universe’s Blueprint Doesn't Come Easily
+** Universe’s Blueprint Doesn’t Come Easily
 Douglas M. Birch
 
-** Unfinished Symphoney
+** Unfinished Symphony
 J. Maddine Nash
 
-** The Elegant Universe
+** The Elegant Universe ❤️
 Brian Greene
 
 ** Hunting for Higher Dimensions
 P. Weiss
 
-** Beyond Gauge Theories
-John Schwars (hep-th / 9807195)
+** Beyond Gauge Theories ❤️
+John Schwarz (hep-th / 9807195)
 
 * Books by Subject
 
