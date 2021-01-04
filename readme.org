@@ -68,7 +68,35 @@
 
 French Mathematician
 
-* Fermat
+* Christopher Huuygens
+
+* Olaf Rømer
+
+* Thomas Young
+
+* E.S. Fischer
+
+Elements of Natural Philosophy
+
+
+
+* Pierre de Fermat
+
+* Blaise Pascal
+
+* Immanuel Kant
+
+* Richard Baltzer
+
+* Eugenio Beltrami
+
+* Voetius
+
+* Nasir Eddin al-Tusi
+
+* John Wallis
+
+* Peter  Turner
 
 * Jacobi
 
@@ -76,7 +104,19 @@ French Mathematician
 
 * Carl Friedrich Gauss (1777 – 1855)
 
+* Johann Bolyài
+
+* Abraham Kestner
+
+* Georg Kluegel
+
+* Nikolay Ivanovic Lobachevsky (1792-1856)
+
+* Johann Bartels
+
 * Riemann
+
+* Marin Mersenne
 
 * Johann Heinrich Lambert (1728 – 1777)
 
@@ -96,9 +136,158 @@ Legrende, Abel, and Galois
 
 * Karl Hermann Amandus Schwarz (1843 – 1921)
 
+* David Hilbert
+
+* Kurt Grelling
+
+* Leonard Nelson
+Heterological paradox
+
+* Bertrand Russell
+
+* William Kindgon Clifford
+
+* Adolph Ganot
+
+Author of Einstein’s textbook
+
+* Henri Poincaré
+
+* Felix Klein
+
+* Giuseppe Peano
+
+New axioms for Euclid Geometry
+
 * Alfred North Whitehead
 
 * Charles Peirce
+
+* Fresnel
+
+* Maxwell
+
+* Hendric Anton Lorenz
+
+* Paul Ehrenfest
+
+* G. G. Stokes
+
+* Armand-Hippolyte-Looius Fezeau
+
+* Albert Michealson
+
+* Alexander Graham Bell
+
+* William Thompson
+
+* André Pater
+
+* Edward Williams Morley
+
+* George Francis Fitzgerald
+
+* Heirneich Weber
+
+* Albert Einstein
+
+* Marcel Grossmann
+
+* Robert Brown
+
+* Abraham Pais
+
+* Jean-Baptiste Perrin
+
+* Max Planck
+
+* Max Von Laue
+
+* Hermann Minkowski
+
+* Ernst Mach
+
+* Arnold Sommerfeld
+
+* Philipp Lenard
+
+* Johannes Stark
+
+* Weiner Heisenberg
+
+* Encrico Fermi
+
+* Edwadr Teller
+
+* Victor Weiskopf
+
+* Watther Mayer
+
+* Wolfgang Pauli
+
+* Edward Witten
+
+* John Schawrz
+
+* Erwin Schrödinger
+
+* Max Born
+
+* Pascual Jordan
+
+* Murray Gell-Mann
+
+* Paul Dirac
+
+* John Bell
+
+* Toichiro Kinoshita
+
+* Theodor Kaluza
+
+* Oscar Klein
+
+* Gabriele Venziano
+
+* John Wheeler
+
+* Geoffrey Chew
+
+* Yoichiro Nambu
+
+* Holger Nielsen
+
+* Leonard Susskind
+
+* J. Robert Oppenheimer
+
+* Richard Feynman
+
+* Julian Schwinger
+
+* Sin-itino Tomanga
+
+* Calabi
+
+* Stephen Yau
+
+* Pierre Ramond
+
+* André Neveu
+
+* Joel Scherk
+
+* Michael Green
+
+* Andrew Strominger
+
+* Brian Greene
+
+* Nathan Seinberg
+
+* Stephen Hawiking
+
+* Cumrun Vata
 
 * Alfred Tarski
 
