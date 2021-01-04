@@ -78,8 +78,6 @@ French Mathematician
 
 Elements of Natural Philosophy
 
-
-
 * Pierre de Fermat
 
 * Blaise Pascal
@@ -319,12 +317,20 @@ A. Seidenberg
 
 * Books
 
+** Read
+
+** A Concise History of Mathematics
+4 January 2021
+
+A good review of mathematics starting from antiquity till the first half of 20th century. Particularly interesting is the periods between 17th-19th century which has been described in quite good detail given the limited number of pages devoted to each century. Author devotes a few chapters for mathematics from around the world (especially during the early phases), Europe and neigbhourhood regions are given central importance throughout the text.
+
 ** [[https://amzn.to/31O4yzi][Euclid’s Window]]
 Leonard Mlodinow (2001)
 
 A whirlwind tour of how reconfiguration of Eucild’s axioms lead to the birth of non-Euclidean geometries which figured a prominent role in the 20th and 21st century Physics and how it ended up influencing our understanding of the world. The details of the theoretical portions are presented for the lay person and hence only brief outlines are presented, but the historical trajectory being detailed is rather interesting to follow to understand how work in geometry influenced physical theories.
 
-** A Concise History of Mathematics
+** Gödel’s Proof
+Ernest Nagel and James R. Newman
 
 ** The Study of the History of Mathematics
 G. Sarton (1936)
@@ -381,6 +387,224 @@ Carl Boyer
 
 ** Mathematical Thought from Ancient to Modern Times
 Morris Kline
+
+** A History of Computing Technology
+Michael R. Williams
+
+** Makers of Mathematics
+
+Alfred Hooper
+
+** A History of Greek Philosophy
+W. K. C Guthrie
+
+** The Great Mathematicians
+Herbert Turnbull
+
+** The Nature and Growth of Modern Mathematics
+Edna E. Kramer
+
+** Mathematical Thought from Ancient to Modern Times
+Morris Kline
+
+** Mathematics in Civilization
+H. L. Resnikoff and R. O. Wells Jr.
+
+** A History of Greek Mathematics
+Sir Thomas Heath
+
+** The Presocratic Philosophers
+G. S. Kirk and J. E. Raven
+
+** Nature and the Greeks
+Erwin Schrödinger
+
+** Pythagoras, A Life
+
+Peter Gorman
+
+** The History of Miletus
+Adelaide Dunham
+
+** Pythagoras
+Leslie Ralph
+
+** From Lucy to Language
+Donald Johnson and Blake Edgar
+
+** Of Men and Numbers
+Jane Muir
+
+** A History of Western Philosophy
+Bertrand Russell
+
+** Mathematical Statistics
+John Freund
+
+** Subtle is the Lord
+Abraham Pais
+
+** Ideas of Space
+Jeremy Gray
+
+** Euclidean and Non-Euclidean Gemoetries
+Marvin Greenberg
+
+** The Outline of History
+H. G. Wells
+
+** Chronicle of the World
+Jerome Burne
+
+** The Life of Greece
+Will Durant
+
+** Mathematics and the Physical World
+Morris Kline
+
+** Mathematics in Western Culture
+Morris Kline
+
+** The Mapmakers
+John Noble Wilford
+
+** Hypatia of Alexandria
+Maria Dzielksa
+
+** The Decline and Fall of the Roman Empire
+Edward Gibbon
+
+** Science in the Middle Ages
+David Lindberg
+
+** Advanced Algebra and Calculus Made Simple
+William Gondin
+
+** Maps and Civilization
+Norman Thrower
+
+** Longitude
+Dava Sobel
+
+** The Middle Ages
+Morris Bishop
+
+** The Medieval Machine
+Jean Gimpel
+
+** Intellectuals in the Middle Ages
+Lacques Le Goff
+
+** Introduction to Fourier Analysis and Generalised Functions
+M. J. Lighthill
+
+** Studies in Medieval Physics and Mathematics
+Marshall Clagett
+
+** Studies in Medieval Philosophy
+Stephano Caroti
+
+** The Beginnings of Western Science
+David C. Lindberg
+
+** The Dictionary of Scientific Biography
+Charles Gillespie
+
+** René Descartes
+Jack Vrooman
+
+* Makers of Mathematics
+Staurt Hollingdale
+
+* Men and Discoveries in Mathematics
+Bryan Morgan
+
+** Mathematics and the Medieval Ancestry of Physics
+Geroge Molland
+
+** Episodes in the Mathematics of Medieveal Islam
+J. L. Berggren
+
+** Carl Friedrich Gauss: Titan of Science
+G. Waldo Dunnington
+
+** Introduction to Mathematical Philosophy
+Bertrand Russell
+
+** Concepts of Space
+Max Jammer
+
+** Men of Mathematics
+E. T. Bell
+
+** Biographien Bedeutender Mathematicker
+Heinz Junge
+
+** Riemann, Topology, and Physics
+Micheal Monastrysky
+
+** The Master of Light: A Biography of Albert A. Michelson
+Dorothy Michelson Livingston
+
+** Albert Abraham Michelson: The Man and the Man of science
+Harvey B. Lemon
+
+** Ulysses S. Grant: Triumph over Adversity 1822 - 1865
+Brooks D. Simpson
+
+** The Physicists
+Daniel Keves
+
+** Eléments de Physique
+Adolphe Ganot
+
+** The Ethereal Aether
+Loyd S. Sowenson
+
+** H. A. lorentz
+G. L. De Haas Lorentz
+
+** Nothingness: The Science of Empty Space
+Henning Genz
+
+** Elements of Natural Philosophy
+E. S. Fische
+
+** The Life of James Clerk Maxwell
+Louis Campbell and William Garnell
+
+** The Demon in the Aether
+Martin Goldman
+
+** Einstein, A Life
+Dennis Brian
+
+* Nineteenth Century Aether Theories
+Kenneth F. Schaffner
+
+** La Science et Hypothèse
+Henri Poincaré
+
+** Einstein: The Life and Times
+Ronard Clark
+
+** The Principle of Relativity
+A. Somefeld
+
+** Relativity
+Albert Einstein
+
+** Gravitation
+Charles Misner, Kip Thorne, and John Wheeler
+
+** Einstein, Hilbert, and the Theory of Gravitation
+Jagdish Mishra
+
+** The Feynman Lectures on Physics
+Riychrad Feynman and Matthew Sands
+
+** The Attraction of Gravitation
+John Earman, Micheal Tanssen and John Norton
 
 * Books by Subject
 
