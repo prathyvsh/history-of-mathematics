@@ -664,18 +664,144 @@ John Schwarz (hep-th / 9807195)
 
 * Books by Subject
 
+* Math History Books
+
+** General
+
+*** [[https://amzn.to/2WJvQUW][Conceptual Roots of Mathematics]]
+J.R.Lucas (October, 1999)
+
+A pretty good book that discusses the philosophical issues in Mathematics. Starts with the idea of Platonic reality and pitts it against the rival theories of truth. An engaging read that draws upon the author’s wealth of knowledge in mathematics.
+
+*** [[https://amzn.to/2YNBEj2][Plato's Ghost: The Modernist Transformation of Mathematics]]
+Jeremy Gray (January, 2008)
+
+*** [[https://amzn.to/2Lhdplu][The Nature and Growth of Modern Mathematics]]
+Edna Ernestine Kramer (1981)
+
+*** [[https://amzn.to/2LfbbD5][Foundations and Fundamental Concepts of Mathematics]]
+Howard Eves (May 20, 1997)
+
+*** [[https://amzn.to/3g4uttd][Mathematical Thought from Ancient to Modern Times]]
+Morris Kline (September 29th, 1972)
+
+*** [[https://amzn.to/2XoWvYO][A Concise History of Mathematics]]
+Dirk Struik (1948)
+
+*** History of Mathematics: An Introduction
+Viktor Katz
+
+*** The History of Mathematics
+David Burton
+
+*** An Introduction to the History of Mathematics
+Howard Eves
+
+*** Foundations and Fundamental Concepts of Mathematics
+Howard Eves
+
+** Arithmetic
+*** [[https://amzn.to/2ZMgKRM][Frege, Dedekind, and Peano on the Foundations of Arithmetic]]
+Donald Gilles (1982)
+
+** Algebra
+
+*** [[amzn.to/2WikJDx][Modern Algebra and the Rise of Mathematical Structures]]
+Leo Corry (February 28, 1996)
+
+*** [[https://amzn.to/3fAZMLO][A History of Abstract Algebra]]
+Israel Kleener (January 1, 2007)
+
+** Logic
+
+*** [[https://amzn.to/2zrwMp2][Honor’s Class]]
+Ben Yandell (December 12, 2001)
+
+*** [[https://amzn.to/2zr7UOa][Gnomes in the Fog: The Reception of Brouwer's Intuitionism in the 1920s]]
+Dennis E. Hesseling (May 27, 2003)
+
+*** Engines of Logic
+Martin Davis (2000)
+
 ** Number Theory
 
 *** The Number Concept
 L. Conant
+
+*** [[https://amzn.to/3bi0lXt][The Queen of Mathematics: A Historically Motivated Guide to Number Theory]]
+Jay R. Goldman (November 15, 1997)
+
+*** [[https://amzn.to/2TeZmkI][Number: The Language of Science]]
+Tobias Dantzig (1930)
+
+*** [[https://amzn.to/38ILntR][Number Theory And Its History]]
+Øysten Ore (1948)
+
+*** [[https://amzn.to/2ThDDst][To Infinity and Beyond]]
+Eli Maor, (January 28, 1986)
+
+*** [[https://amzn.to/2WDGk9G][e: The Story of a Number]]
+Eli Maor, (January 1, 1993)
+
+*** [[https://amzn.to/3bGEKs7][The Universal History of Numbers: From Prehistory to the Invention of the Computer]]
+Georges Ifrah, 1981
+
+** Analysis
+
+*** [[https://amzn.to/35NzYrl][A History of Numerical Analysis from the 16th through the 19th Century]]
+H. H. Goldstine (August 17, 1976)
+
+*** [[https://amzn.to/2M0K2Ep][Analysis By Its History]]
+
+A book that teaches analytics by the way it historically evolved.
+
+** Geometry
+
+*** [[https://amzn.to/2B8pUxT][Geometry By Its History]]
+
+Teaches Geometry by the way it historically unfolded
 
 ** Vector Algebra
 
 *** [[https://en.wikipedia.org/wiki/A_History_of_Vector_Analysis][A History of Vector Analysis]]
 Michael J. Crowe (1967)
 
+** Set Theory
+
+*** [[https://amzn.to/2YQm8Dg][Labyrinth of Thought: A History of Set Theory and Its Role in Modern Mathematics]]
+Jose Ferreiros, Erwin Hiebert, Eberhard Knobloch, Erhard Scholz (November 23, 1999)
+
 ** Group Theory
 
-*** [[https://www.amazon.com/Genesis-Abstract-Group-Concept-Contribution/dp/0486458687][The Genesis of the Abstract Group Concept]]
+*** [[https://amzn.to/2WG3zyT][The Genesis of the Abstract Group Concept]]
+Hans Wussing, (May 16, 1984) (1969?)
 
-Hans Wussing (1969)
+*** [[https://amzn.to/3ckAsaL][Symmetry and the Monster: One of the greatest quests of mathematics]]
+Mark Ronan, (May 18th, 2006)
+
+** Category Theory
+
+*** [[https://amzn.to/3bl6ceu][From a Geometrical Point of View]]
+Jean-Pierre Marquis, (January 1, 2008)
+
+*** [[https://amzn.to/2SU8wmC][Tool and Object: A History and Philosophy of Category Theory]]
+Ralph Krömer, (February 16th, 2007)
+
+** Game Theory
+
+*** [[https://amzn.to/3dxcY2t][Von Neumann, Morgenstern, and the Creation of Game Theory: From Chess to Social Science]]
+Robert Leonard, (June 1, 2010)
+
+** People
+
+*** Paul Erdos
+
+**** [[https://amzn.to/2Lcz2mQ][My Brain is Open: The Mathematical Journeys of Paul Erdos Paperback]]
+Bruce Schechter, (September 1, 1998)
+
+*** Hilbert
+
+**** Biography by Constance Reid
+
+*** Euler
+**** Leonard Euler by Ronald Calinger
