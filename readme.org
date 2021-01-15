@@ -1,5 +1,20 @@
 * History of Mathematics
 
+* Themes which influenced mathematics
+
+- Hydrodynamics on function theory
+- Kantianism and surveying on geometry
+- Electromagnetism on differential equations
+- Cartesianism on mechanics
+- Scholasticism on calculus
+
+* Prehistory
+Some where in prehistory, counting began by mapping a set of things to objects. Counting with fingers enabled counting with a base that is with respect to an certain radix. Having 10 fingers means that you can now refer to 2 tens or 7 tens by abstracting out the base. This also forms a basis for arithmetic where you can say 14 is 10 + 4 or 114 is 100 * 1 + 10 * 1 + 1 * 4.
+
+A Concise History of Mathematics by Dirk Struik says that calculi (pebbles/pointers) where first used and then came in a base with index that is fingers acting as a reference base.
+
+Our body parts are in many ways the measure of things out there in the world.
+
 * Babylonia
 
 * Egypt
@@ -699,6 +714,8 @@ Howard Eves
 
 *** Foundations and Fundamental Concepts of Mathematics
 Howard Eves
+
+*** Bibliography nad Research Material of the History of Mathematics (1973)
 
 ** Arithmetic
 *** [[https://amzn.to/2ZMgKRM][Frege, Dedekind, and Peano on the Foundations of Arithmetic]]
