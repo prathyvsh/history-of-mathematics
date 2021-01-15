@@ -1,0 +1,5 @@
+* Book Reviews
+
+** A Concise History of Mathematics
+
+Reading this book reminded me that I have to supplement reading history of mathematics with a background in the history of the world. Struik provides just enough historical background details to understand what the times were like. Especially in the early chapters. The political, economical, and philosophical outlook of the world went on to influence the mathematics done in each period heavily.
