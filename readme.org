@@ -20,11 +20,24 @@ Our body parts are in many ways the measure of things out there in the world.
 * Egypt
 
 ** Rhind Papyrus
+
 ** Moscow Papyrus
 
+* Kassites, Assyrians, Medes, Persians
+
+* Sulbasutras
+
 * Greece
+Minoan, Mycenean, Hittie worlds dissapeared.
+Hebrews, Assyrians, Phoenicians, and the Greeks
+
+Corinth, Athens, Croton, Tarentum
+
+Ionian Rationalism
 
 * Thales of Miletus
+
+Thales symbolizes the foundation of modern mathematics, science, and technology.
 
 * Pythagoras
 
@@ -46,7 +59,52 @@ Our body parts are in many ways the measure of things out there in the world.
 
 * Archimedes
 
+* Hippocrates of Chios
+
+Lunulae
+Quadrature of a circle
+
+Apogoge: Word for logical deduction
+
+Stoicheia
+
+Arithmoi
+
+Numbers were divided into Pentagonal, Square, Triangular, Friendly, Perfect, Prime, Composite, Odd, Even, Even times even, Odd times odd
+
+The finding of irrational numbers was found not by extending the concept of numbers but by finding the synthesis is geometry.
+
+* Three central problems in Greek Mathematics
+
+Trisection of angle
+Duplication of the Cube / Delian problem
+Quadrature of the circle
+
+None of these problems can be solved by the construction of a finite number of straight lines and circles except by approximation. These problems helped open up new fields of mathematics.
+
+Search for the geometrical proportion
+Search for the double geometrical proportion
+
+This search led to the discovery of the conics, cubic and quartic curves and the quadratrix
+
+** Leucippus
+** Democritus
+
+** Archytas of Tarentum
+
+** Hippocrates of Cos
+
 * Hipparchus
+
+* Zeno
+** Paradoxes
+
+- Achilles
+- Arrow
+- Dichotomy
+- Stadium
+
+Potential and actual infinity question
 
 * Claudius Ptolemy
 ** Almalgest
@@ -716,6 +774,9 @@ Howard Eves
 Howard Eves
 
 *** Bibliography nad Research Material of the History of Mathematics (1973)
+
+*** The Bequest of the Greeks (1955)
+T. Dantzig
 
 ** Arithmetic
 *** [[https://amzn.to/2ZMgKRM][Frege, Dedekind, and Peano on the Foundations of Arithmetic]]
