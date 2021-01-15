@@ -106,11 +106,105 @@ This search led to the discovery of the conics, cubic and quartic curves and the
 
 Potential and actual infinity question
 
+Peloponnesian War (404 B.C.)
+Fall of Athens
+
+* Plato
+Plato’s Academy
+
+* Archytas
+* Theaetetus (d 369 B.C.)
+* Eudoxus (408 – 355 B.C.)
+
+Axiom of Eudoxus/Archimedes
+
+** Exhastuion Method
+Coined by Grégoire de Saint-Vincent, 1647
+
+“The Method” -> Democritus’ School -> Atom Method
+
+334 B.C. Alexander the Great’s conquest of Persia
+
+Egypt - Ptolemies
+Mesopotamia and Syria - Seleucids
+Macedonia - Antigonus and his successors
+
+The period of Hellenism
+
+* Euclid (306 - 283 B.C.)
+
+Stoicheia (translated as Data / Elements)
+
+Applications of algebra to geometry but presented in strictly geometrical language
+
+Based on a strict logic deduction of theorems from definitions, postulates, and axioms
+
+First four books: Plane geometry
+Fifth book: Eudoxus’ theory of propertions
+6th book: Pythagoras and the golden section
+7th to 9th book: Number Theory
+10th book: Resumes geometrical discussions.
+Considered most difficult.
+Discusses numbers of the form a+- sqrt(b) and sqrt(a +- sqrt(b))
+
+Last three books: Solid geometry
+
+Attempts to reduce Euclid’s parallel axiom to a theorem has led in the 19th century to the discovery of non-Euclidean geometries
+Similarly with axiom of Archimedes and non-Archimedean geometry
+
+First usage of the sign π by William Jones (1706)
+
+Went mainstream with the adoption of Euler in his Introductio.
+
+** Archimedes (287 - 212 B.C.)
+
+** Appollonius of Perga (274 – 205 B.C.)
+
+*** Tangency problem
+
+The conics were known in a different epistemological viewpoint.
+
+Parabola: Application
+Ellipse: Application with deficiency
+Hyperbola: Application with excess
+
+History of mathematics is intertwined with astronomy
+
+Planetory theory of Eudoxus
+
+* Aristarchus of Samos (c. 280 B.C.)
+
+* Hipparcus of Nicaea
+
 * Claudius Ptolemy
 ** Almalgest
 ** Geographia
+** Stereographic projection
+** Use of latitude and longitude
+** Ptolemy’s theorem
 
 * Rome
+
+* Nichomachus of Gerasa (A.D. 100)
+
+* Kidinnu
+
+* Menelaus (c. A.D. 100)
+
+* Heron (c. A.D. 100)
+
+* Diophantus (c. A.D. 250)
+
+G.H.F. Nesselman in Die Algebra der Griechen distinguished between rhetoric algebra, syncopated algebra, and symbolic algebra
+
+* Pappus (c. Early 4th century)
+Synagoge
+
+* Zenodorus
+
+Isoperimetric problems
+
+* Proclus (410 - 485 A.D.)
 
 * Anicius Manlius Severinus Boethius
 ** Topographia Christiana
@@ -118,6 +212,10 @@ Potential and actual infinity question
 * Orestes
 
 * Hypatia
+
+Arithmos vs. Logistics/Computation
+
+* Theodosius I (394) - Byzantine Empire
 
 * Charlemagne (724 – 814)
 
@@ -775,8 +873,15 @@ Howard Eves
 
 *** Bibliography nad Research Material of the History of Mathematics (1973)
 
+*** Exact Sciences in Antiquity
+O. Neugebauer
+There is also The Exact Sciences in Antiquity (1952) by the same author, both of which are recommended by Dirk Struik.
+
 *** The Bequest of the Greeks (1955)
 T. Dantzig
+
+*** The Early History of the Astrolabe
+O. Neugebauer
 
 ** Arithmetic
 *** [[https://amzn.to/2ZMgKRM][Frege, Dedekind, and Peano on the Foundations of Arithmetic]]
