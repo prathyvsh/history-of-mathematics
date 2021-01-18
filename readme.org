@@ -187,7 +187,7 @@ Planetory theory of Eudoxus
 
 * Nichomachus of Gerasa (A.D. 100)
 
-* Kidinnu
+* Cidenas / Kidinnu (330 B.C.)
 
 * Menelaus (c. A.D. 100)
 
@@ -216,6 +216,33 @@ Isoperimetric problems
 Arithmos vs. Logistics/Computation
 
 * Theodosius I (394) - Byzantine Empire
+
+* Siddhāntās — Sūrya Siddhānta
+
+* Āryabhata
+
+* Brahmagupta (c. 625)
+
+* Mahāvīra (Mysore School) (c. 850)
+* Bhāskara (1150)
+* Nīlakanta Somayaji (c. 1500)
+Kenos - Sūnya
+
+* Sassanian Period (224 - 641)
+
+* Severus Sēbōkt
+* Al-Fazārī translated Siddhāntās (773)
+* Gobâr numerals
+
+
+* Al-Mansūr (754-775)
+* Hārūn al-Rashīd (786-809)
+* Al-Mámūn (813-833)
+Promoted Astronomy
+
+* House of Wisdom at Baghdad
+
+* Muhammad ibn Mūsā al-Khwārizmi (f 825)
 
 * Charlemagne (724 – 814)
 
@@ -882,6 +909,15 @@ T. Dantzig
 
 *** The Early History of the Astrolabe
 O. Neugebauer
+
+*** Zero: The Symbol, the Concept, the Number
+C. B. Boyer
+
+*** The Origin of the Ghubār numerals
+S. Gandz
+
+*** The Sources of Al-Khwārizmi’s Algebra
+S. Gandz
 
 ** Arithmetic
 *** [[https://amzn.to/2ZMgKRM][Frege, Dedekind, and Peano on the Foundations of Arithmetic]]
