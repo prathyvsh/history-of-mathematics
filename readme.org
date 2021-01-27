@@ -246,6 +246,25 @@ Promoted Astronomy
 
 * Charlemagne (724 – 814)
 
+* Arabic Scholars
+
+Persians, Tadjiks, Egyptians, Jews, Moors
+
+* Al-Battani (Albategnius) (850-929)
+Umbra Extensa
+
+* Abū-l-Wafā (al-Būzjanī) (940-997/8)
+Sine theorem of spherical trigonometry
+
+* Al-Karki (Al-Karajī)
+Worked with surds
+
+* Omar Khayyam (al-Khayyāmi) (c. 1038/48 – 1123/31)
+Rubaiyat
+Reformed the calendar
+** Risala fi'l-barāhīn ’alā masā'il al-jabr wa'l muqābala
+Treatise on demonstration of problems of reduction and confrontation
+
 * University of Bologna (1088)
 
 * Mediterranean
@@ -513,6 +532,9 @@ A. Seidenberg
 ** [[https://www.jstor.org/stable/41133511][The Origin of Mathematics]]
 A. Seidenberg
 
+** Omar Khayyam, Mathematician
+D. J. Struik
+
 * Books
 
 ** Read
@@ -541,6 +563,9 @@ It has the classic quote:
 #+BEGIN_QUOTE
 The ways of discovery must necessarily be very different from the shortest way, indirect and circuitous, with many windings and retreats. It is only at a later stage of knowledge, when a new domain has been sufficiently explored, that it becomes possible to reconstruct the whole theory on a logical basis, and to show how it might have been discovered by an omniscient being, that is, how it might have been discovered if there had been no real need of discovering it!
 #+END_QUOTE
+
+** Introduction to the History of Science
+G. Sarton
 
 ** Bibliography and Research Material of the History of Mathematics
 K. O. May (1973)
