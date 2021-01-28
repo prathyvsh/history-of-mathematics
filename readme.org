@@ -366,6 +366,23 @@ Medici account books (1406) has them
 
 From 1439 onward, they replace Roman numerals
 
+Rechenmeister - Reckon Masters / Arithmeticians
+
+In Middle Ages “speculative” mathematics was cultivated among scholastic philosophers who speculated on the nature of motion, of the continumm, and of infinity.
+
+Origen, Aristotle denied the existence of actual infinite
+
+St. Augustine in Civitas Dei accepted the whole sequence of integers as an actual infinity.
+
+Georg Cantor remarked that the transfinitum cannot be more energetically desired and cannot be more perfectly determined and defened than was done by St. Augustine
+
+Thomas Aquinas accepted “infinitum actu non datur” but considered every continuum as potentially divisible ad infinitum.
+
+A continnum as cannot be constituted of indivisibles. A point could generate a line by motion.
+
+Such “speculations” had their influence on the inventors of the infinitesimal calculus in the 17th century and on the philosophers of the transfinite in the 19th: Cavalieri, Tacquet, Bolzano, and Cantor knew the scholastic authors and pondered over the meaning of their ideas.
+
+Thomas Bradwardine investigated star polygons after studying Boethius.
 
 
 * [Historian] Bartholomew
