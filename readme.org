@@ -391,7 +391,7 @@ Found out that the harmonic series is divergent
 ** De latitudinibus formarum (c. 1360)
 Latitude (Dependent Variable) vs. Longitude (Independent variable)
 
-Rechen haftigkeit (Sombart) - A willingness to compute, a belief in the usefulness of arithmetic work
+Rechenhaftigkeit (Sombart) - A willingness to compute, a belief in the usefulness of arithmetic work
 
 * Johannes Müller of Königsberg
 
@@ -409,12 +409,119 @@ Classics in this period were considered as “ne plus ultra” (nothing beyond)
 General algebraic solution of the cubic equation
 
 * Study of linear perspective
-Brunelleschi
-Donatello
-Uccello
-Masaccio
-Alberti
-Piero della Francesca
+** Brunelleschi
+** Donatello
+** Uccello
+** Masaccio
+** Alberti
+** Piero della Francesca
+
+First printed mathematical books in Europe: Commercial Arithmetic (Trevisio, 1478)
+
+* Cliques
+
+Scipio del Ferro and team
+Cossists
+French Algebraists
+Port royale
+
+* Luca Pacioli
+
+Remarked that solutions of x^3 + mx = n, x^3  + n = mx seem impossible
+
+** Summa de Arithmetica
+Introduced double entry book keeping
+
+** Geometria, Proportioni et Proportionalia (1494)
+
+* Divina Proportione (1509)
+
+
+General solution of the cubic equation
+x^3 + px = q, x^3 = px + q, x^3 + q = px
+
+* Tartaglia
+rediscovered the methods of Scipio del Ferro in 1535
+
+* Girolamo Cardano / Jerome Cardan
+
+** Ars Magna (1545)
+
+Ludovico Ferrari defended Cardano in the accusation of making the general solution of the cubic equation public
+
+* Quaesiti of Tartaglia (1546)
+
+* Cartelli of Ferrari (1547-48)
+
+* Rafael Bombelli
+
+** Algebra (1572)
+** Geometry (1550)
+
+*** Note on notation used
+R[0m.9] = Sqrt(0 - 9)
+m stands for minus
+
+Curious that complex numbers appeared in the context of cubic equations and not on quadratic equations which are simpler and the same idea appears in that context too.
+
+* G. J. Rheticus
+
+* Valentin Otho
+
+Trigonometric values for every 10 seconds to 10 places in Opus Palatinum
+
+* Tables of Pitiscus - 15 places
+
+* Adriaen van Roomen
+Equation of the 45th degree
+
+* François Viète
+
+First to express π as an infinite product
+
+** In artem analytican isagoge (1591)
+First to represent numbers by letters
+
+Cossists: Cosa - Italian for unknown
+
+* Johann Widmann (1489)
+
+First use of + and - in print
+
+* Simon Stevin
+Engineer
+
+** La disme (1585)
+Introduced decimal fractions
+
+* Johann Kepler
+
+* Thomas Harriot
+
+* Adriaen Vlacq
+
+* Ezechiel de Decker
+Assisted by Adriaen Vlacq
+
+* John Napier (or Neper)
+
+** Mir ifici logarithmorum canoni descriptio (1614)
+
+* Henry Briggs
+
+** Arithmetica logarithmica (1624)
+
+Filled the gap between 20,000 and 90, 000 in Briggian logarithms
+
+Natural logarithms appeared contemporaneously with Briggian logarithms, but tehir fundamental importance was not recognized until the infinitesimal calculus was better understood.
+
+* E. Wright
+Writer on navigation published some natural logarithms in 1618
+
+* J. Speidell
+Also published some natural logarithms in 1619
+
+But after this no tables of logarithms were published until 1770
 
 * [Historian] Bartholomew
 
@@ -682,6 +789,45 @@ L. C. Karpinski
 ** The prohibitios of the use of Arabic numerals in Florence
 D. J. Struik
 
+** History of the Exponential and Logarithmic Concepts (7 aricles) (1913)
+Florian Cajori
+
+** Cardano: The Gambling Scholar
+O. Ore
+
+** Development of Number Theory in Europe till the 17th century
+G. P. Matvierskaya
+
+** The Discover of Logarithms by Napier (1915- 16)
+H. S. Carslaw
+
+** The Development of Trigonometric Methods Down to the close of the 15th century (1921 - 22)
+D. J. Bord
+
+** The Story of Reckoning in the Middle Ages (1926)
+F. A. Yeldham
+
+** The Sphere of Sacrobosco (1949)
+L. Thorndike
+
+** The Science of Mechanics in the Middle Ages
+M. Clagett
+
+** Archimedes in the Middle ages, Vol I. (1965)
+M. Clagett
+
+** Six Wings: Men of Science of the Renaissance (1957)
+G. Sarton
+
+** Sixteenth Century French Arithmetics and the Business Life (1960)
+N. Z. Davis
+
+** Rara Arithmetica (1908)
+D. E. Smith
+
+** The Italian Renaissance of Mathematics (1975)
+P. L. Rose
+
 * Books
 
 ** Read
@@ -757,7 +903,10 @@ Thomas Little Heath (1921)
 J. Klein
 
 ** A History of Mathematics ❤️
-Carl Boyer
+Carl B. Boyer
+
+** The History of the Calculus
+Carl B. Boyer
 
 ** Mathematical Thought from Ancient to Modern Times ❤️
 Morris Kline
