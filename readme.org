@@ -221,6 +221,29 @@ Arithmos vs. Logistics/Computation
 
 * Āryabhata
 
+* Liu Hui (A.D. 263)
+Nine chapters
+
+* Zu Chongzhi (tsu Ch'ung-Chih) (430 - 501)
+Value of Metius
+
+After Alknaar burgomaster
+Adriaen Anthoniszoon (c. 1580) whose sons called themselves Metius
+
+* T'ang Dynasty (618-906)
+Printing began
+
+Dynasty progression: Han -> T'ang -> Song/Sung -> Yuan
+960-1279
+
+1115 - Printed edition of the Nine chapters
+
+* Wang Xiaotong (Wang Hsiao-t'ung) (c. 625)
+
+* Qin Jiushao (Chi'n chiu-shao) (1247)
+
+Theory of indeterminate equations. Solving equations by generalizing the method of succesive approximations popularized by Horner in 1819.
+
 * Brahmagupta (c. 625)
 
 * Mahāvīra (Mysore School) (c. 850)
@@ -277,6 +300,18 @@ Horner’s Method
 * Al-Uglīdīsī
 Decimal Fractions
 
+* Ibn Al-Haitham (Alhazen) (c. 956 - 1039)
+Problem of Alhazen
+
+* Abū Kāmil
+Influenced Al-Karkhi and Leonardo of Pisa
+
+* Al-Zarqāli (c 1029-1807)
+Toledan Planetary tables
+
+* Alfonso and Castile
+Alfonsine Tables
+
 * University of Bologna (1088)
 
 * Mediterranean
@@ -318,8 +353,6 @@ Elements of Natural Philosophy
 * Eugenio Beltrami
 
 * Voetius
-
-* Nasir Eddin al-Tusi
 
 * John Wallis
 
