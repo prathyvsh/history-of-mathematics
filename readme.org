@@ -384,6 +384,38 @@ Such “speculations” had their influence on the inventors of the infinitesima
 
 Thomas Bradwardine investigated star polygons after studying Boethius.
 
+* Nicole Oresme, Bishop of Lisieux in Normandy
+
+Found out that the harmonic series is divergent
+
+** De latitudinibus formarum (c. 1360)
+Latitude (Dependent Variable) vs. Longitude (Independent variable)
+
+Rechen haftigkeit (Sombart) - A willingness to compute, a belief in the usefulness of arithmetic work
+
+* Johannes Müller of Königsberg
+
+* George Peurbach
+Teacher of Regiomontanus
+
+* Regiomontanus
+** De triangulis omni modis libri quinque (1464, printed 1533)
+
+Euler (1748) normalized trigonometric ratios to radius 1
+
+Classics in this period were considered as “ne plus ultra” (nothing beyond)
+
+* Scipio del Ferro
+General algebraic solution of the cubic equation
+
+* Study of linear perspective
+Brunelleschi
+Donatello
+Uccello
+Masaccio
+Alberti
+Piero della Francesca
+
 * [Historian] Bartholomew
 
 * [Historian] Giovanni Villani
@@ -735,6 +767,9 @@ Michael R. Williams
 
 ** Makers of Mathematics
 Alfred Hooper
+
+** The Renaissance Rediscovery of the Linear Perspective
+S. Y. Edgerton
 
 ** A History of Greek Philosophy ❤️
 W. K. C Guthrie
