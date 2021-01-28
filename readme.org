@@ -312,6 +312,33 @@ Toledan Planetary tables
 * Alfonso and Castile
 Alfonsine Tables
 
+* Al-Kāshī of Samarkhand
+Decimal fractions
+
+Father Matteo Ricci: Popularized Western Mathematics and Astronomy into China
+
+* Anicius Manlius Severinus Boethius
+Died as a martyr of Catholic faith
+
+The Trivium: Grammatica, Rhetorica, Dialectica
+
+Arithmetica, Geometrica, Astronomia, Musica: Quadrivium
+
+* Ecclesiastical Mathematicans
+
+* Alucin
+Court of Charlamagne
+
+* Gerbert
+French Monk
+
+Became a pope under the name of Sylvester II
+
+* Translators
+** Plato of Tivoli
+** Gherardo of Cremona
+** Robert of Chester
+
 * University of Bologna (1088)
 
 * Mediterranean
@@ -323,6 +350,23 @@ Alfonsine Tables
 ** Elements Latin Version
 
 * Leonard of Pisa / Fibonacci
+Liber Abaci (1202)
+
+Fibonacci Series: Introduced Hindu-Arabic system of numeration into Western Europe
+
+** Practica Geometriae (1220)
+
+* Codex Vigilanus (976)
+
+The adoption of Hindu Arabic numerals were slow. Their introduction met with opposition from public.
+
+Money changers of Florence were forbidden to use them.
+
+Medici account books (1406) has them
+
+From 1439 onward, they replace Roman numerals
+
+
 
 * [Historian] Bartholomew
 
@@ -583,6 +627,13 @@ D. J. Struik
 ** The Binomial Theorem: A widespread concept in Medieval Islamic Tradition
 C. M. Yadagiri
 
+** Amer. Math. Monthly vol 21 (1914)) Page 37-48
+
+L. C. Karpinski
+
+** The prohibitios of the use of Arabic numerals in Florence
+D. J. Struik
+
 * Books
 
 ** Read
@@ -644,6 +695,9 @@ H. Eves
 
 ** The Great Mathematicians
 W. H. Turnbull
+
+** History of Mathematical Astronomy in India
+D. Pingree
 
 ** The History of Mathematics
 J.E. Hofmann
