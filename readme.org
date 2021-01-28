@@ -265,6 +265,18 @@ Reformed the calendar
 ** Risala fi'l-barāhīn ’alā masā'il al-jabr wa'l muqābala
 Treatise on demonstration of problems of reduction and confrontation
 
+* Nasīr al-dīn at Tūsī (1201-1274)
+
+Tried to prove Euclid’s axiom
+John Wallis used his work
+
+* Jemshia Al Kāshī (died 1436)
+
+Horner’s Method
+
+* Al-Uglīdīsī
+Decimal Fractions
+
 * University of Bologna (1088)
 
 * Mediterranean
@@ -534,6 +546,9 @@ A. Seidenberg
 
 ** Omar Khayyam, Mathematician
 D. J. Struik
+
+** The Binomial Theorem: A widespread concept in Medieval Islamic Tradition
+C. M. Yadagiri
 
 * Books
 
