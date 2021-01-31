@@ -763,9 +763,28 @@ Leibniz’ calculus was first published in 1684
 
 Followed by a paper in 1686 that contained the rules of integral calculus
 
-** Willebrord Snellius (1580 – 1626)
+* Willebrord Snellius (1580 – 1626)
 Snell’s law
 ** Tiphys Batavus (1624)
+
+* James Gregory
+
+Found binomial series
+
+Arrived at Taylor’s series
+
+Found the Leibniz serii
+
+** Exercitationes geometricae (1668)
+
+* Bernard Nieuwentjit
+Burgomaster of Purmerend in 1694 criticized Leibniz’ calculus
+
+* George Berkeley
+
+Criticized Newton’s calculus
+
+** 
 
 * Johannes Hudde
 
