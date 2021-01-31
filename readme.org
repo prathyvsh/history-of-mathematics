@@ -617,6 +617,15 @@ Studied Diophantus
 ** Isagoge (1679)
 Printed in 1679, written earlier than Descartes
 
+** Fermat’s theorem
+Prime of form 4n + 1 can be expressed once and only once
+
+a^(p-1) - 1 divisible by p when p is prime and a is coprime to p.
+
+Asserted x^2 - Ay^2 = 1 has an unlimited number of integer solutions.
+
+Fermat and Pascal together founded the mathematical theory of probability
+
 * John Wallis
 Tractacus de sectionibus conicis (1655)
 
@@ -653,7 +662,11 @@ French Mathematician
 
 * Christopher / Christiaan Huygens
 
-Studieud tractrix, the logarithmic curve, the catenary, and established the cycloid as a tautochronus curve.
+Studied tractrix, the logarithmic curve, the catenary, and established the cycloid as a tautochronus curve.
+
+** De ratiociniis in ludo alea (1657)
+
+Huygens hearing about the correspondence between Fermat and Pascal tried to find his own answers on probability theory. These inquiries resulted in this work
 
 ** Horologium Oscillatorium (1673)
 
@@ -671,8 +684,11 @@ Elements of Natural Philosophy
 
 * Blaise Pascal
 
+Chevalier de Meré approached Pascal with a aquestion concerning problème des points. This lead to a correspondence with Fermat that resulted in establishing the field of modern probability theory.
+
 ** Traité général de la roulette (1658)
 Published under the name of A. Dettonville
+
 
 * Johannes Hudde
 
@@ -755,6 +771,10 @@ Legrende, Abel, and Galois
 3/ Linear algebra and hypercomplex systems
 
 * Karl Hermann Amandus Schwarz (1843 – 1921)
+
+* Ernst Kummer
+
+Theory of ideal numbers
 
 * David Hilbert
 
@@ -962,6 +982,9 @@ O. Ore
 ** Development of Number Theory in Europe till the 17th century
 G. P. Matvierskaya
 
+** [[https://webspace.science.uu.nl/~hietb101/gnpdf/freudenthal_Huygens_foundations.pdf][Huygen’s Foundation of Probability]]
+H. Freudenthal
+
 ** The Discover of Logarithms by Napier (1915- 16)
 H. S. Carslaw
 
@@ -1167,6 +1190,13 @@ William Gondin
 
 ** Maps and Civilization
 Norman Thrower
+
+** Three lectures on Fermat's Last Theorem
+
+L. J. Mordell
+
+** Fermat’s Lats Theorem
+H. M. Edwards
 
 ** Longitude
 Dava Sobel
