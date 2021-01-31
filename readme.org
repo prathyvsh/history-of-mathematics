@@ -199,6 +199,8 @@ G.H.F. Nesselman in Die Algebra der Griechen distinguished between rhetoric alge
 
 * Pappus (c. Early 4th century)
 Synagoge
+Treasury of Analysis
+Analumenos
 
 * Zenodorus
 
@@ -536,7 +538,7 @@ Machines became popular in renaissance. They lead to the theoretical mechanics a
 * Leon Battista Alberti
 Book on architecture (1450)
 
-* Leonardo da Vinci (15000
+* Leonardo da Vinci (1500)
 
 * Tartaglia
 
@@ -594,6 +596,51 @@ The actual infinnite given in the Discorsi was consciously directed against the 
 
 Principle of Cavalieri: All solids of same altitude with the same area in every planar cross section at the same height has the same area
 
+* René Descartes
+
+Rojected homogeneity restrictions
+An algebraic equation became a relation between numbers
+
+Did a consistent application of the well developed algebra to the geometrical analysis of the ancients
+
+** Géométrie (1637)
+Appendix to Discours de la Méthode
+
+* Pierre de Fermat
+
+A lawyer at Toulouse
+
+Discovered maxima and minima by slightly changing the variable in a simple algebraic equation and then letting the change disappear.
+
+** Isagoge (1679)
+Printed in 1679, written earlier than Descartes
+
+* John Wallis
+Tractacus de sectionibus conicis (1655)
+
+* Johan De Witt
+
+** Elementa curvarum linearum (1659)
+
+* L’Hospital
+** Traité analytique des sections coniques (1707)
+
+All of these works referenced Apollonius
+
+First to work boldly with algebric equations was Newton in his study of cubic curves.
+
+The problem of finding tangent to a curve started finding a more prominent place.
+
+Followers of Cavilieri: Torricelli, Isaac Barrow.
+
+* Isaac Barrow
+
+Explained integration and differentiation as inverse problems
+
+* Grégoire de Saint-Vincent
+
+Calculated and solved Zeno’s paradox of Achilles and Tortoise, inspired by the spirit of their age and medieval scholastic writings on the nature of the continuum and the latitude of forms.
+
 * [Historian] Bartholomew
 
 * [Historian] Giovanni Villani
@@ -602,7 +649,7 @@ Principle of Cavalieri: All solids of same altitude with the same area in every 
 
 French Mathematician
 
-* Christopher Huuygens
+* Christopher / Christiaan Huuygens
 
 * Olaf Rømer
 
@@ -612,9 +659,16 @@ French Mathematician
 
 Elements of Natural Philosophy
 
-* Pierre de Fermat
-
 * Blaise Pascal
+
+** Traité général de la roulette (1658)
+Published under the name of A. Dettonville
+
+* Johannes Hudde
+
+Mayor of Amsterdam
+
+Generalized Fermat's results
 
 * Immanuel Kant
 
