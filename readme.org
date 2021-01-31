@@ -523,6 +523,77 @@ Also published some natural logarithms in 1619
 
 But after this no tables of logarithms were published until 1770
 
+Mathematics during Renaissance developed due to Rechenhaftigkeit and development of machines in the 17th century.
+
+Heron’s work describes machines.
+
+Machines became popular in renaissance. They lead to the theoretical mechanics and to the scientific study of motion and of change in general.
+
+* Books on machines
+
+* Keyser, early 15th century
+
+* Leon Battista Alberti
+Book on architecture (1450)
+
+* Leonardo da Vinci (15000
+
+* Tartaglia
+
+Nuova Scienzia (1537)
+Construction of clocks and orbit of projectiles
+
+* F. Commandino
+
+Translated Archimedes (1558)
+
+Applied the ancient method of integration to compute the centers of gravity.
+
+Finding the centre of gravity was a favorite among Archimedean scholars
+
+* Simon Stevin
+
+Wrote on centers of gravity (1586)
+Hydraulics (1586)
+
+* Luca Valeria
+
+Centers of gravity (1605)
+Quadrature of parabola (1606)
+
+* Paul Guldin
+
+** Centrobaryca (1641)
+
+Theorem of Guldin on Centroids which was explained by Pappus
+
+In the wake of the scientists in the early 17th century came the work of Kepler, Cavalieri, Torricelli.
+
+Celestial Mechanics / Terrestrial Mechanics
+
+* Johann Kepler
+
+** Nova stereometria doliorum vinariorum (1615)
+
+* Galileo Galilei
+Found the parabolic orbits of projectiles
+
+Kinematics of freely falling bodies
+
+Theory of elasticity
+
+** Disorsi e dimostrazioni matematiche intorno a due nuove scienze (1638)
+
+Claimed the cardinality of number of squares to be equal to that of the totality of all numbers (natural numbers?)
+
+The actual infinnite given in the Discorsi was consciously directed against the Aristotelian and scholastic position represented by Simplicio
+
+* Bonaventura Cavalieri
+
+** Geometria indivisibilius continuorum (1635)
+
+Principle of Cavalieri: All solids of same altitude with the same area in every planar cross section at the same height has the same area
+
 * [Historian] Bartholomew
 
 * [Historian] Giovanni Villani
@@ -790,6 +861,9 @@ L. C. Karpinski
 D. J. Struik
 
 ** History of the Exponential and Logarithmic Concepts (7 aricles) (1913)
+Florian Cajori
+
+** Indivisibles and ghosts of departed quantities in the history of mathematics
 Florian Cajori
 
 ** Cardano: The Gambling Scholar
