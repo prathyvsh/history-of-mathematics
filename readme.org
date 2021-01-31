@@ -630,10 +630,15 @@ Fermat and Pascal together founded the mathematical theory of probability
 Tractacus de sectionibus conicis (1655)
 
 * Johan De Witt
+De Witt and Halley produced Table of annuities
 
 ** Elementa curvarum linearum (1659)
 
-* L’Hospital
+* Marquis L’Hospital
+
+** Analyse des infiniment petits (1696)
+Rule of L’Hospital
+
 ** Traité analytique des sections coniques (1707)
 
 All of these works referenced Apollonius
@@ -686,9 +691,81 @@ Elements of Natural Philosophy
 
 Chevalier de Meré approached Pascal with a aquestion concerning problème des points. This lead to a correspondence with Fermat that resulted in establishing the field of modern probability theory.
 
+Pascal’s theorem at age 16
+
+Lead the life of a Jansenist at Port-Royal
+
+First to establish a satisfying formulation of the principle of complete induction
+
+** Traité des sinus du quart de circle
+
+** Triangulum characteristicum
+
 ** Traité général de la roulette (1658)
 Published under the name of A. Dettonville
 
+* Isaac Newton (1642–1727)
+
+Had the idea of calculus in 1655-66 but published in 1704-36
+
+Laid the foundation of potential theory
+Solved the two body problem for spheres
+
+Laid the beginnings of a theory of the moon's motion
+His axiomatic treatment postulated absolute space and absolute time
+
+** Theory of fluxions
+** Universal gravitation
+
+** Composition of light
+
+** Study of infinite series through Wallis’ Arithmetica
+** Fluxions vs. Fluents
+** Method of Fluxions (1736)
+
+** Philosophiae naturalis principia mathematica (1687)
+Establishes mechanics on an axiomatic foundation
+Contains the law of gravitation
+
+** Enumeratio linearum tertii ordus (1704)
+Classification of plane cubic curves into 72 species
+
+** Arithmetica universalis
+
+** Work on series (1699)
+
+** Quadrature of curves (1693; published 1704)
+
+** Opticks (17024)
+
+* Robert Boyle
+
+* Gottfried Wilhelm Leibniz (1646 – 1716)
+
+** Scientia generalis
+** Characteristica generalis
+Lead to permutations and combinations
+Symbolic logic
+
+** Lingua Universalis
+His invention of the calculus must be understood against this philosophical background of his search for a lingua universalis of change and of motion in particular.
+
+** Found calculus between 1673 and 1676
+
+Newton's approach was kinematical, Leibniz’s was geometrical
+
+Leibniz thought in terms of the characteristic triangle.
+
+This had appeared in Pascal and Barrow’s Geometerical lectures of 1670
+
+** Nova methodus pro maximis et minimis, itemque tangentibus, quae nec fractal nec irrationales quantitates, moratur, et singulare pro illis calculi genus
+Leibniz’ calculus was first published in 1684
+
+Followed by a paper in 1686 that contained the rules of integral calculus
+
+** Willebrord Snellius (1580 – 1626)
+Snell’s law
+** Tiphys Batavus (1624)
 
 * Johannes Hudde
 
@@ -701,7 +778,7 @@ Generalized Fermat's results
 * André Tacquet
 ** On Cylinders and Rings (1651) influenced by Pascal
 
-since there was no periodicals at the time, there were discussion circles and constant correspondence
+Since there was no periodicals at the time, there were discussion circles and constant correspondence
 
 Latitude of forms
 
@@ -731,6 +808,13 @@ Claimed that -1 > Infinity
 * Desargues
 
 New interpretation of geometry
+
+Book on perspective (1636)
+
+** Brouillon proet d'une atteinte aux événements des recontres d'un cone avec un plan (1639)
+Deals with infinity, involutions and polarities
+
+** Desargues’s theorem on perspective triangles (1648)
 
 * Peter Turner
 
@@ -971,6 +1055,9 @@ L. C. Karpinski
 D. J. Struik
 
 ** History of the Exponential and Logarithmic Concepts (7 aricles) (1913)
+Florian Cajori
+
+** Leibniz, the Master Builder of Mathematical Notations
 Florian Cajori
 
 ** Indivisibles and ghosts of departed quantities in the history of mathematics
@@ -1365,6 +1452,9 @@ Alice Steinbach
 
 ** Portrait: Is This the Cleverest Man in the World?
 Jack Claff
+
+** Isaac Newton – A biography (1934)
+L. T. More
 
 ** The Theory Formerly Known as Strings
 Michael Duff
