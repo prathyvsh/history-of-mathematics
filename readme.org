@@ -612,6 +612,8 @@ A lawyer at Toulouse
 
 Discovered maxima and minima by slightly changing the variable in a simple algebraic equation and then letting the change disappear.
 
+Studied Diophantus
+
 ** Isagoge (1679)
 Printed in 1679, written earlier than Descartes
 
@@ -649,7 +651,15 @@ Calculated and solved Zeno’s paradox of Achilles and Tortoise, inspired by the
 
 French Mathematician
 
-* Christopher / Christiaan Huuygens
+* Christopher / Christiaan Huygens
+
+Studieud tractrix, the logarithmic curve, the catenary, and established the cycloid as a tautochronus curve.
+
+** Horologium Oscillatorium (1673)
+
+** Wave theory of light
+
+** Ring of Saturn
 
 * Olaf Rømer
 
@@ -670,6 +680,22 @@ Mayor of Amsterdam
 
 Generalized Fermat's results
 
+* Paul Guldin
+
+* André Tacquet
+** On Cylinders and Rings (1651) influenced by Pascal
+
+since there was no periodicals at the time, there were discussion circles and constant correspondence
+
+Latitude of forms
+
+In the writings of Tacquet and Guldin the term “exhaustion” appears for the first time
+
+* Marin Mersenne
+Minorite Father
+
+** Mersenne Primes
+
 * Immanuel Kant
 
 * Richard Baltzer
@@ -680,7 +706,17 @@ Generalized Fermat's results
 
 * John Wallis
 
-* Peter  Turner
+** Arithmetica Infinitorum (1655)
+
+Used infinity symbol to mean 1/0
+
+Claimed that -1 > Infinity
+
+* Desargues
+
+New interpretation of geometry
+
+* Peter Turner
 
 * Jacobi
 
@@ -952,6 +988,9 @@ N. Z. Davis
 
 ** Rara Arithmetica (1908)
 D. E. Smith
+
+* The Role of Scientific Societies in the 17th century
+M. Ornstein
 
 ** The Italian Renaissance of Mathematics (1975)
 P. L. Rose
