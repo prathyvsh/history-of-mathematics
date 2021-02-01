@@ -1094,6 +1094,9 @@ H. Freudenthal
 ** The Discover of Logarithms by Napier (1915- 16)
 H. S. Carslaw
 
+** Papers on Stevin, Della Faille, Tacquet, De Saint-Vincent
+H. Bosmans
+
 ** The Development of Trigonometric Methods Down to the close of the 15th century (1921 - 22)
 D. J. Bord
 
@@ -1162,6 +1165,8 @@ K. O. May (1973)
 ** Outline of the History of Mathematics
 R. C. Archibald
 
+** Work of historial Hofmann J.E on Grégoire de Saint-Vincent, Fermat, Priority struggle b/w Newton and Leibniz, Leibniz, Frans van Schooten den Jüngere
+
 ** A History of Mathematics ❤️
 A. F. Carjori
 
@@ -1183,6 +1188,42 @@ J. F. Scott
 ** An Introduction to the History of Mathematics ❤️
 H. Eves
 
+** Die Entwicklung der Infinitesimalrechnung I (1949)
+O. Toeplitz
+
+** L’ouevre mathématique de G. Desargues (1951)
+R. L. Taton
+
+** James Gregory, A Tercentary memorial (1939)
+H. W. Turnbull
+
+** Patterns of Mathematical Thought in the Later 17th century
+D. T. Whiteside (1961)
+
+** Notions Historiques
+Paul Tannery (1903)
+
+** Pascal Mathématicien (1951)
+P. Montel
+
+** Differentials, Higher-order differentials, and the derivative in the Leibnizian Calculus (1974)
+H. J. M. Bos
+
+** Philsophers at War — The Quarrell Between Newton and Leibniz (1900)
+A. R. Hall
+
+** The Land of Stevin and Huygens (1981)
+D. J. Struik
+
+** L’oeuvre de Pascal en Géométrie Projective (1962)
+R. Taton
+
+** A catalog of Jesuit Mathematicians (1964)
+T. E. Mulcrone
+
+** [[https://amzn.to/3reVDCp][The Origins of the Infinitesimal Calculus (1969)]]
+M. E. Baron
+
 ** The Great Mathematicians
 W. H. Turnbull
 
@@ -1203,6 +1244,18 @@ Carl B. Boyer
 
 ** The History of the Calculus
 Carl B. Boyer
+
+** Science, Technology, and Society in the 17th Century
+R. K. Merton
+
+** The Social and economic Roots of Newton’s Principia
+B. Hessen
+
+** The Mathematical Career of Pierre de Fermat
+Michael S. Mahoney
+
+** Christiaan Huygens and the development of science in the 17th century
+A. E. Bell
 
 ** Mathematical Thought from Ancient to Modern Times ❤️
 Morris Kline
