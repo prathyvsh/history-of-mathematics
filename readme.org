@@ -851,6 +851,25 @@ Controversy concerning the principle of least action
 
 Euler restated the principle in the form that integral of mvds must be a minimum
 
+* Alexis Claude Clairaut
+Recherches sur les courbes à double courbure (1731)
+A first attempt to deal with the analytical and differential geometry of space of curves
+** Théorie de la figure de la terre (1743)
+
+A standard work on the equilibrium of fluids
+** Attraction of ellipsoids of revolution
+
+** Théorie de la lune (1752)
+Clairaut’s equation
+First known examples of a singular solution
+
+* Denis Diderot
+* Jean Le Rond d’Alembert
+
+Traité de dynamique
+
+Method of reducing the dynamics of solid bodies to statics known as d’Alembert’s principle
+
 * Johannes Hudde
 
 Mayor of Amsterdam
