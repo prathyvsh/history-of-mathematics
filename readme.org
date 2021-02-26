@@ -789,8 +789,6 @@ The soulition of the brachistochrone turned out to be cycloid. They also found t
 
 The cycloid curve also solves the problem of tautochrone.
 
-Euler was a pupil of Johann Bernoulli
-
 * Daniel Bernoulli
 
 Son of Johann Bernoulli
@@ -892,6 +890,17 @@ Had the special tutelage of Frederick the Great.
 
 Lost one eye in 1735, and the other eye in 1766, but nothing could interrupt his enormous productivity.
 
+Catenoid and Right helicoid are minimal surfaces
+
+V + F - E = 2 for a closed polyhedron — Was already known to Descartes
+
+The line of Euler in the triangle
+Curves of constant width (orbiform curves)
+Euler’s constant = 0.5772156…
+Limit from n to infinite (1 + 1/2 + … + 1/n - log n)
+
+Law of reciprocity for quadratic residues
+
 ** Introductio in analysin infinitorum (1748)
 
 Influenced Lagrange, Laplace, and Gauss
@@ -903,6 +912,30 @@ Considered the first book on analytical geomeotry
 - Partitio numerorum
 ** Institutiones calculi differentialis (1755)
 ** Institutiones calculi integralis (1768-74)
+Three volumes
+Has section on differential equation with its distinction between “linear”, “exact”, and “homogeneous” equations
+
+** Mechanica, sive motus scientia analytice exposita (1736)
+Newton’s dynamics of the mass point was developed with analytical methods
+
+** Theoria motus corporum solidorum seurigidorum (1765)
+
+** Vollständige Anleitung zur Algebra (1770)
+
+** Methodus inveniendi lineas curvas maximi minimive proprietate gaudentes (1744)
+
+- First exposition of calculus of variations
+- Euler’s equations
+
+** Theoria motus planetarium et cometarum (178774)
+** Attraction of ellipsoid (1738)
+** Dioptrica (1769-71)
+3 volumes
+Theory of passage of light through a system of lenses
+
+** Letters to a German Princess
+Catalogue of most important problems of natural science
+Remained a model of popularization
 
 * Lagrange (1736 – 1813)
 
