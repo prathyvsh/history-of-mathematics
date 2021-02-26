@@ -746,6 +746,7 @@ Classification of plane cubic curves into 72 species
 ** Characteristica generalis
 Lead to permutations and combinations
 Symbolic logic
+Proposed the study of isochrone which was carried out by Jakob Bernoulli
 
 ** Lingua Universalis
 His invention of the calculus must be understood against this philosophical background of his search for a lingua universalis of change and of motion in particular.
@@ -763,8 +764,30 @@ Leibniz’ calculus was first published in 1684
 
 Followed by a paper in 1686 that contained the rules of integral calculus
 
+* Jakob Bernoulli
+
+Studied the logarithmic spiral.
+eadem mutata resurgo: Evolute of a logarithmic spiral is itself.
+
+Both the pedal curve and the caustic with respect to the pole.
+
+** Polar coordinates
+** Lemiscate (1695)
+** Isochrone (1690)
+** Isoperimetric figures (1701)
+** Ars conjectandi (1713)
+Theory of probabilites
+
+** Theorem of Bernoulli
+Bernoulli’s numbers appear in the discussion of Pascal’s triangle
+
+Jakob and Johann are considered as inventors of calculus of variations.
+
+Euler was a pupil of Johann Bernoulli
+
 * Willebrord Snellius (1580 – 1626)
 Snell’s law
+
 ** Tiphys Batavus (1624)
 
 * James Gregory
@@ -783,8 +806,6 @@ Burgomaster of Purmerend in 1694 criticized Leibniz’ calculus
 * George Berkeley
 
 Criticized Newton’s calculus
-
-** 
 
 * Johannes Hudde
 
@@ -838,6 +859,10 @@ Deals with infinity, involutions and polarities
 * Peter Turner
 
 * Jacobi
+
+* Euler (1707 – 1783)
+
+* Lagrange (1736 – 1813)
 
 * Pierre-Simon Laplace (1749 – 1827)
 
