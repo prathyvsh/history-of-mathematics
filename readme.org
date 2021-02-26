@@ -791,6 +791,21 @@ The cycloid curve also solves the problem of tautochrone.
 
 Euler was a pupil of Johann Bernoulli
 
+* Daniel Bernoulli
+
+Son of Johann Bernoulli
+
+Paradox of St. Petersburg
+
+Was prolific in applying mathematics to other sciences: Astronom, Physics, Physiology, Hydrodynamics
+
+** Hydrodynamica (1736)
+Bernoulli’s law on hydraulic pressure
+Kinetic theory of gases
+
+* Vibrating String Problem
+First introduced by Brook Taylor in 1715. Led to the theory of PDEs.
+
 * Willebrord Snellius (1580 – 1626)
 Snell’s law
 
@@ -866,7 +881,28 @@ Deals with infinity, involutions and polarities
 
 * Jacobi
 
-* Euler (1707 – 1783)
+* Leonard Euler (1707 – 1783)
+
+From Basel
+
+Described as the most productive mathematician of all time.
+Euler’s father trained under Jakob Bernoulli and Euler trained under Johann.
+
+Had the special tutelage of Frederick the Great.
+
+Lost one eye in 1735, and the other eye in 1766, but nothing could interrupt his enormous productivity.
+
+** Introductio in analysin infinitorum (1748)
+
+Influenced Lagrange, Laplace, and Gauss
+
+Considered the first book on analytical geomeotry
+
+- Algebraic theory of elimination
+- Chapter on the Zeta function and its relation to the prime number theory
+- Partitio numerorum
+** Institutiones calculi differentialis (1755)
+** Institutiones calculi integralis (1768-74)
 
 * Lagrange (1736 – 1813)
 
