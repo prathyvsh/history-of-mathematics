@@ -781,7 +781,13 @@ Theory of probabilites
 ** Theorem of Bernoulli
 Bernoulli’s numbers appear in the discussion of Pascal’s triangle
 
-Jakob and Johann are considered as inventors of calculus of variations.
+Jakob and Johann are considered as inventors of calculus of variations because of their contribution to the problem of brachistochrone.
+
+It is the curve of quickest descent for a mass point moving between two points in a gravitaitonal field.
+
+The soulition of the brachistochrone turned out to be cycloid. They also found the equation of the geodesics on a surface.
+
+The cycloid curve also solves the problem of tautochrone.
 
 Euler was a pupil of Johann Bernoulli
 
