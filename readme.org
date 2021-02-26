@@ -823,8 +823,33 @@ Found the Leibniz serii
 Burgomaster of Purmerend in 1694 criticized Leibniz’ calculus
 
 * George Berkeley
+Dean of Derry
+Known for extreme idealisim (esse est percipi)
+Criticized Newton’s theory of fluxions in The Analyst (1734)
 
-Criticized Newton’s calculus
+Infinitesimals: Ghost of departed quantities
+Caricatured Newton’s work as manifest sophism
+
+* John Landen
+** Residual Analysis (1764)
+Method which has some affinity to the algebraic method of Lagrange
+
+Descartes work was placed on the index in 1664
+
+Voltaire
+Lettres sur les Anglais (1734)
+Introduced Newton to the French reading public
+
+Cassini (Jean Dominique)
+Cassin’s Oval
+
+** Pierre de Maupertius
+Least action as mvs
+
+** Samuel König
+Controversy concerning the principle of least action
+
+Euler restated the principle in the form that integral of mvds must be a minimum
 
 * Johannes Hudde
 
@@ -936,6 +961,23 @@ Theory of passage of light through a system of lenses
 ** Letters to a German Princess
 Catalogue of most important problems of natural science
 Remained a model of popularization
+
+Worked on divergent series which were made rigorous by G. H. Hardy in 1949
+
+** Differential Calculus (1755)
+
+There exist infinite orders of infinitely small quantities which though the all = 0, still have to be well distinguished among themselves, if we look at their mutual relation, which is explained by a geometrical ratio
+
+* Guido Grandi
+Studied rosaces (r = sin n theta)
+
+* Notes on Differential Calculus
+
+Newton used the term “prime and ultimate ratio” for the “fluxion”
+d'Alembert replaced this notion by the conception of a “limit”
+d’Alembert’s conception of infinities of different orders
+Secant becomes the tangent when the intersection of two points are one
+Does a variable quantity reach its limit? or does it never reach it?
 
 * Lagrange (1736 – 1813)
 
@@ -1507,6 +1549,12 @@ Bertrand Russell
 
 ** Concepts of Space ❤️
 Max Jammer
+
+** The Science of Mechanics
+Ernst Mach
+
+** Leonhard Euler, Supreme Geometer
+C. Truesdell
 
 ** Biographien Bedeutender Mathematicker
 Heinz Junge
