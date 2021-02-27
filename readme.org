@@ -866,9 +866,47 @@ First known examples of a singular solution
 * Denis Diderot
 * Jean Le Rond d’Alembert
 
-Traité de dynamique
+** Traité de dynamique
 
 Method of reducing the dynamics of solid bodies to statics known as d’Alembert’s principle
+
+Fundamental theorem in algebra is sometimes called d’Alembert’s theorem because of his attempt at proof (1746)
+
+** d’Alembert’s paradox: Paradox in the theorem in the theory of probability
+
+Theory of probability advanced in 18th century by further elaboration of the ideas of Fermat, Pascal, and Huygens
+
+* Abraham de Moivre
+
+** The Doctrine of CHances (1716)
+
+* Edict of Nantes (1685)
+
+* James Stirling
+
+* Georges-Louis Leclerc
+Introduced the first example of a geometric probability
+Needle problem
+
+Marquis de Condorcet
+** Probabilité des judgements
+
+* Colin Maclaurin
+
+** Geometria Organica (1720)
+** Cramer’s Paradox
+** Treatise of Fluxions (2 volumes) (1742)
+
+** Series of Maclaurin
+Did considerations of convergence
+Integral test for infinite series
+
+** Brook Taylor
+
+** Introduced the problem of the vibrating string
+
+** Methodus incrementorum (1715)
+
 
 * Johannes Hudde
 
@@ -998,9 +1036,55 @@ d’Alembert’s conception of infinities of different orders
 Secant becomes the tangent when the intersection of two points are one
 Does a variable quantity reach its limit? or does it never reach it?
 
-* Lagrange (1736 – 1813)
+* Joseph-Louis Lagrange (1736 – 1813)
+
+Purely analytical calculus of variations
+** Mécanique analytique (1788)
+
+** Particular solution to the three-body problem (1772)
+
+** Sur la résolution des équations numériques
+
+** Réflexions sur la résolution algébrique des équations
+
+Rational functions of the roots and their behaviour under the permutations of the roots.
+
+This influenced Ruffini, Abel, and Galois
+
+Investigated quadratic resudiues
+
+Proved every integer is the sum of four or less than four squares
+
+** Théorie des fonctions analytiques (1797)
+** Leçons sur le calcul des fonctions (1801)
+
+Rejected the theory of limits as indicated by Newton and formulated by d’Alembert
+
+Any function can be defined by the Taylor’s series
+
+The derivatives f'(x), f''(x) were defined as the coefficients h, h^2, in the Taylor expansion of f(x+h)
+
+The notation f'(x), f''(x) is due to Lagrange
+
+First built the theory of functions of a real variable
+Use of his own calculs of variations made the unification of the varied principles of statistics and dynamics possible
+
+In statistics by the use of the principle of virtual velocities
+In dynamics by the use of d’Alembert’s principle
+
+Lagrangian form: d/dt(∂T/∂q_i - ∂T/∂q_i) = F_i
+
+* Lazare Carnot
+Organisateur de la victoire
+** Réflexions sur la métaphysique du calcul infinitésimal (1881)
 
 * Pierre-Simon Laplace (1749 – 1827)
+
+** Théorie analytique des probabilités (1812)
+** Mécanique céleste (5 vols., 1799 – 1825)
+** Essai philosophique sur les probabilités (1814)
+** Exposition du système du monde (1796)
+*** Nebular hypothesis: Independently proposed by Kant in 1755 and before Kant by Swedenborg (1734)
 
 * Carl Friedrich Gauss (1777 – 1855)
 
