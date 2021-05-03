@@ -1,5 +1,11 @@
 * Notes on Intuitionism
 
+[[./img/intuitionism-cover.png]]
+
 [[https://twitter.com/patternatlas/status/1388923698988691461][Twitter Thread]]
 
-We came across this idea as we were learning Lambda Calculus. We wanted to develop a deep understanding of this subject and it lead us to investigate the history of logic. As we kept pursuing this journey, we started coming across references to the works of Brouwer and Kant signaling that they were somehow influential in the birth of the idea of computability. This document is a result of our attempt to understand in some precision how their work is braided in the fabric of computation and mathematics. We hope to share our findings here in a format accessible to a person curious about these ideas.
+We came across this idea as we were learning [[https://prabros.com/lambda-calculus/][Lambda Calculus]]. We wanted to develop a deep understanding of this subject and it lead us to investigate the history of logic.
+
+[[./img/kant-brouwer.png]]
+
+As we kept pursuing this journey, we started coming across references to the works of Brouwer and Kant. It signalled to us that were somehow influential to computability and the philosophy of mathematics surrounding it. This document is a result of our attempt to understand in some precision how their work is braided in the fabric of computation and mathematics. We hope to share our findings here in a format accessible to a person curious about these ideas.
