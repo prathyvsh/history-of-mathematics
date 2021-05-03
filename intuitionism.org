@@ -10,4 +10,4 @@ We came across this idea as we were learning [[https://prabros.com/lambda-calcul
 
 Image credits: [[https://archief.amsterdam/beeldbank/detail/aaee7502-2071-4774-b6f2-f658d5a10168][Stadsarchief Amsterdam for Brouwer]]
 
-As we kept pursuing this journey, we started coming across references to the works of Brouwer and Kant. It signalled to us that were somehow influential to computability and the philosophy of mathematics surrounding it. This document is a result of our attempt to understand in some precision how their work is braided in the fabric of computation and mathematics. We hope to share our findings here in a format accessible to a person curious about these ideas.
+As we kept pursuing this journey, we started coming across references to the works of Brouwer and Kant. It signalled to us that were somehow influential to computability and the philosophy of mathematics surrounding it. This document is a result of our attempt to understand how their work is braided in the fabric of computation and mathematics. We hope to share our findings here in a format accessible to a person curious about these ideas.
