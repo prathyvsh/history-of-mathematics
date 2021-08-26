@@ -407,6 +407,10 @@ Euler (1748) normalized trigonometric ratios to radius 1
 
 Classics in this period were considered as “ne plus ultra” (nothing beyond)
 
+* Adam Riese (1492 – 1559)
+
+Introduced Arabic/Indian numerals in Germany
+
 * Scipio del Ferro
 General algebraic solution of the cubic equation
 
