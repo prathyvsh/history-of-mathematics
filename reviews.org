@@ -8,6 +8,26 @@ Reading this book reminded me that I have to supplement reading history of mathe
 
 ** Papers
 
+*** A Mad Day’s Work: From Grothendieck to Connes and Kontsevich: The Evolution of Concepts of Space and Symmetry
+
+1. Introduction
+
+2. A Brief Biography of Grothendieck
+
+A glimpse into the life of Grothendieck is given.
+
+3. On the Nature of Space and Its Points
+
+Leibniz thought of monads as apriori existing structures. Thhis vivew is aligned with thhat of set thheory as elements capable of having certain properties and having certain relations among themselves or with elements of other sets.
+
+From this ontological point of view the elements, or points, are pre-existent and the problem is to organize them, to give them a structure. From the physical point of view, one postulates with Newton the existence of an absolute space, in which the phenomena occur: positions are predetermined, destined to be inhabited by the accidents of matter.
+
+In Mach’s philosophy, on the contrary, space is determined by matter; th most advanced mathematical form is certainly furnished by the Einstein gravitational equations.
+
+In contrast to Newton’s view, the space is no longer a mere receptacle, but an actor in physics, as the bending of light rays in a gravitational field shows. For Mach and Einstein, a point then only appears as a label making it possible to identify an event.
+
+However, the history of physics has gotten us accustomed to Russian doll games, the chemist’s molecule being composed of atoms, which themselves possess an electron cloud and a nucleus, the latter being composed of protons and neutrons, whichh turned out to be sets of quarks, provisionally assumed to be indivisible. On the mathematical level, the modern view of the continuum presupposes only two levels. A straight line, for example, is made up of pre-existent ponits. The classical view in the 18th century assumes, on the contrary, a hierarchy of infinitesimals and infinities of various orders. To a given order the infinitesimals of the immediately higher order appears to be points without structure, until we open the box that they constitute and that reveals infinitesimals of a higher order playing provisionally the role of points. Brouwer, and to a lesser extent HHermann Weyl, attempted to base a mathematical theory of the contniuum on these ideas.
+
 *** To Read
 
 **** [[https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/184_Dean.pdf][Dedekind’s treatment of Galois Theory in the Vorlesungen]]
