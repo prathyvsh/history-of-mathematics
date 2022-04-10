@@ -20,13 +20,26 @@ A glimpse into the life of Grothendieck is given.
 
 Leibniz thought of monads as apriori existing structures. Thhis vivew is aligned with thhat of set thheory as elements capable of having certain properties and having certain relations among themselves or with elements of other sets.
 
+
+
 From this ontological point of view the elements, or points, are pre-existent and the problem is to organize them, to give them a structure. From the physical point of view, one postulates with Newton the existence of an absolute space, in which the phenomena occur: positions are predetermined, destined to be inhabited by the accidents of matter.
 
 In Mach’s philosophy, on the contrary, space is determined by matter; th most advanced mathematical form is certainly furnished by the Einstein gravitational equations.
 
 In contrast to Newton’s view, the space is no longer a mere receptacle, but an actor in physics, as the bending of light rays in a gravitational field shows. For Mach and Einstein, a point then only appears as a label making it possible to identify an event.
 
-However, the history of physics has gotten us accustomed to Russian doll games, the chemist’s molecule being composed of atoms, which themselves possess an electron cloud and a nucleus, the latter being composed of protons and neutrons, whichh turned out to be sets of quarks, provisionally assumed to be indivisible. On the mathematical level, the modern view of the continuum presupposes only two levels. A straight line, for example, is made up of pre-existent ponits. The classical view in the 18th century assumes, on the contrary, a hierarchy of infinitesimals and infinities of various orders. To a given order the infinitesimals of the immediately higher order appears to be points without structure, until we open the box that they constitute and that reveals infinitesimals of a higher order playing provisionally the role of points. Brouwer, and to a lesser extent HHermann Weyl, attempted to base a mathematical theory of the contniuum on these ideas.
+However, the history of physics has gotten us accustomed to Russian doll games, the chemist’s molecule being composed of atoms, which themselves possess an electron cloud and a nucleus, the latter being composed of protons and neutrons, whichh turned out to be sets of quarks, provisionally assumed to be indivisible. On the mathematical level, the modern view of the continuum presupposes only two levels. A straight line, for example, is made up of pre-existent points. The classical view in the 18th century assumes, on the contrary, a hierarchy of infinitesimals and infinities of various orders. To a given order the infinitesimals of the immediately higher order appears to be points without structure, until we open the box that they constitute and that reveals infinitesimals of a higher order playing provisionally the role of points. Brouwer, and to a lesser extent Hermann Weyl, attempted to base a mathematical theory of the contniuum on these ideas.
+
+Two lines have a point in common and a line is a figure that passes through two points.
+
+There is a determinacy property: two lines, or two circles, that have the same points are equal, but iit is not in the spirit of Euclid to regard a line as a set of ponits. A figure in the sense of Euclidd is more than a simple set of points. This traditional point of view is genetic: lines are generated. The modern point of view is ontological: points pre-exist and have no identity of their own; like the monads, they are merely subject to relations. The same kind of duality occurs in formal logic. For the syntactical point of view there are basic formulas and rules for generating new ones, which increase the stock of available formulas without limit. In the semantic point of view this potential infinity of formulas is opposed by the convenient fiction of the actual infinity of all theh formulas, considered to have been constructedd once and for all.
+
+
+In algebra, the potential point of view consists of defining a group or an algebra by generators and relations; the actual point of view consists of defining it as a set of elements structured by operations.
+
+[Duality in logic/algebra/geometry what is there in analysis?]
+
+I think this is related to structuralist vs. constructivist viewpoints. But I have to read further to find out. May be Shapiro’s work?
 
 *** To Read
 
